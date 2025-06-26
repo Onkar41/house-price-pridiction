@@ -85,23 +85,26 @@ The House Price Prediction System leverages machine learning to predict property
 
 ### 📈 Prediction Output
 - Real-time price display
-
-
+  
+---
 ## 🔗 Links
 
-- 🔍 
+- 🔍 <a href="https://github.com/Onkar41/house-price-pridiction/blob/main/hpp/bhp.csv" >Data set</a>
 
-  
+--- 
 ### 📸 Screenshots
 
 ![Screenshot 2025-04-17 093424](https://github.com/user-attachments/assets/1e328ee3-01ac-4640-8e06-8c45753c3cd4)
+<br>---<br>
 ![Screenshot 2025-04-17 093441](https://github.com/user-attachments/assets/e880a3b4-d448-474a-a04a-cc03f0f15aaa)
+<br>---<br>
 ![Screenshot 2025-04-17 093752](https://github.com/user-attachments/assets/5613203f-7f9b-4659-ad90-c0061c2edf00)
+<br>---<br>
 ![Screenshot 2025-04-17 093517](https://github.com/user-attachments/assets/e6af1ca7-d322-478d-98f6-cf7798adb3e7)
 
 
 
 
----
+
 
 
