@@ -4,7 +4,7 @@
 The House Price Prediction System leverages machine learning to predict property prices based on features like area, number of bedrooms, location, etc. It includes a web interface built with HTML, CSS, Python, and Flask, and is deployed on AWS EC2 for real-time price prediction.
 
 ---
-
+ 
 ## 📌 Need of the Proposed System
 - Simplifies property evaluation for buyers, sellers, and agents.
 - Automates calculations and reduces human errors.
