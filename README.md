@@ -89,16 +89,16 @@ The House Price Prediction System leverages machine learning to predict property
 
 ## 🔗 Links
 
-- 🔍 [Dataset - Kaggle](https://www.kaggle.com/)
-- ☁️ [Live Demo (if deployed)](http://your-aws-ec2-url.com/)
-- 📁 [Project Repository](https://github.com/yourusername/your-repo)
+- 🔍 
+
   
 ### 📸 Screenshots
 
 ![Screenshot 2025-04-17 093424](https://github.com/user-attachments/assets/1e328ee3-01ac-4640-8e06-8c45753c3cd4)
 ![Screenshot 2025-04-17 093441](https://github.com/user-attachments/assets/e880a3b4-d448-474a-a04a-cc03f0f15aaa)
-![Screenshot 2025-04-17 093517](https://github.com/user-attachments/assets/e6af1ca7-d322-478d-98f6-cf7798adb3e7)
 ![Screenshot 2025-04-17 093752](https://github.com/user-attachments/assets/5613203f-7f9b-4659-ad90-c0061c2edf00)
+![Screenshot 2025-04-17 093517](https://github.com/user-attachments/assets/e6af1ca7-d322-478d-98f6-cf7798adb3e7)
+
 
 
 
